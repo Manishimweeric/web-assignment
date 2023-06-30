@@ -1,0 +1,311 @@
+body{
+    background-color: aliceblue;
+
+}
+
+.img-logo{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-left: 50px;
+    rotate: -45deg;
+    border-radius: 0px 40px 40px 40px;
+}
+
+.logosector{
+    font-family: Centaur;
+    margin-top: -60px;
+    margin-left: 130px;
+    font-size: 30px;
+}
+
+.menu-link{
+    text-decoration: none;
+    margin-left: 600px;
+    word-spacing: 30px;
+    margin-top: -60px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: Baskerville Old Face;
+    
+}
+a:hover{
+    
+    cursor: pointer;
+      
+    
+}
+.aa{
+    height: 80px;
+    width: 1333px;
+    background-color: white;
+    
+}
+.b{
+   
+    background-color: rgb(0, 0, 0);
+    margin-top: -5px;
+    height: 40px;
+    width: 1333px;
+    
+    
+   
+
+}
+.c{
+      height: 430px;
+       width: 100%;
+       
+    
+}
+.kimi{
+    font-size: 30px;
+    color: rgb(7, 7, 7);   
+    font-family:Baskerville Old Face ;
+    position: inherit;
+    text-transform: initial;
+    text-align: center;
+}
+.d{
+    margin-top: -430px;
+}
+.e{
+    margin-left: 993px;
+    margin-top: -155px;
+}
+.activities{
+
+    width: 270px;
+    margin-left: 40px;
+    background-color:rgb(255, 255, 255);
+    height: 350px;
+    border-radius: 5px;
+    margin-top: -28px;
+    
+}
+.activities  h2{
+    text-align: center;
+    padding-top: 100px;
+    font-family: Baskerville Old Face;
+
+}
+.activities p{
+padding: 10px;
+text-align: left;
+font-size: 20px;
+color: rgb(94, 92, 92);
+font-family: Centaur;
+
+}
+#More_details{
+   margin-left: 115px;
+   margin-top: -55px;
+   color: blue;
+
+}
+
+#drop{
+    position: relative;
+    display: inline-block;
+}
+#dropcontent{
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 190px;
+    box-shadow: 0px 8px 16px 0px white;
+    padding: 12px 16px;
+    margin-top: -30px;
+    margin-left:90px;
+    line-height: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    font-family: Baskerville Old Face;
+    }
+#drop:hover #dropcontent{
+    display: block;
+}
+
+.activities1{
+
+    width: 270px;
+    margin-left: 40px;
+    background-color:rgb(255, 255, 255);
+    height: 350px;
+    border-radius: 5px;
+    margin-top: -28px;
+    
+}
+.activities1  h2{
+    text-align: center;
+    padding-top: 100px;
+    font-family: Baskerville Old Face;
+
+}
+.activities1 p{
+padding: 10px;
+text-align: left;
+font-size: 20px;
+color: rgb(94, 92, 92);
+font-family: Centaur;
+
+}
+
+
+.activities2{
+
+    width: 270px;
+    margin-left: 40px;
+    background-color:rgb(255, 255, 255);
+    height: 350px;
+    border-radius: 5px;
+    margin-top: -28px;
+    
+}
+.activities2  h2{
+    text-align: center;
+    padding-top: 100px;
+    font-family: Baskerville Old Face;
+
+}
+.activities2 p{
+padding: 10px;
+text-align: left;
+font-size: 20px;
+color: rgb(94, 92, 92);
+font-family: Centaur;
+
+}
+
+
+.annou{
+
+    width: 270px;
+    margin-left: 1000px;
+    background-color:rgb(28, 32, 241);
+    height: 400px;
+    border-radius: 5px ;
+    margin-top: -350px;
+    color: white;
+    overflow: scroll;
+
+}
+
+.annou h2{
+    
+    text-align: center;
+    font-family: Baskerville Old Face;
+}
+.annou p{
+
+padding: 10px;
+font-family: Centaur;
+font-size: 20px;
+
+
+}
+
+.table1{
+    border: 0px solid; 
+    width: 100%; 
+    height:30px; 
+   background-color: white;
+    margin-top: 20px;
+}
+.table1 h2{
+margin-left: 20px;
+
+}
+.activities3{
+
+
+    width: 400px;
+    margin-left: 40px;
+    background-color:rgb(255, 255, 255);
+    height: auto;
+    border-radius: 5px;
+    margin-top: px;
+
+
+}
+
+.activities3 p{
+padding: 10px;
+text-align: left;
+font-size: 20px;
+color: rgb(0, 0, 0);
+font-family: Baskerville Old Face;
+}
+
+.morelink{
+font-size: 20px;
+border:  0px solid black;
+width: 200px;
+height: 30px;
+border-radius: 40px;
+line-height:-20px ;
+text-align: center;
+margin-left: 600px;
+color: white;
+background-color: rgb(34, 34, 248);
+}
+
+.morelink a{
+    color: white;
+    font-family: Corbel Light;
+
+}
+
+.fot{
+    width: 1333px;
+    height: 500px;
+    background-color: rgb(1, 100, 139);
+    margin-top: 20px;
+}
+
+.fot iframe{
+
+margin-left: 700px;
+margin-top: 10px;
+
+}
+.CONT{
+
+    margin-left: 250px;
+    margin-top: -470px;
+    width: 400px;
+    height: 400px;
+    color: white;
+   
+
+}
+
+.CONT h2{
+    padding: 20px;
+    font-family: SimSun;
+    color: rgb(99, 196, 235);
+    
+}
+.CONT p{
+
+    font-family: AvenirMedium;
+    font-size: 20px;
+    margin-left: 22px;
+
+}
+
+.light{
+
+    width: 1333px;
+    margin-top: 50px;
+    background-color: rgb(1, 100, 139);
+    height: 20px;
+
+    text-align:center;
+    color: white;
+    font-family: Californian FB;
+
+}
