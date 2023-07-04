@@ -1,5 +1,6 @@
 body{
     background-color: aliceblue;
+    color: rgb(0, 0, 0);
 
 }
 
@@ -21,7 +22,7 @@ body{
 
 .menu-link{
     text-decoration: none;
-    margin-left: 600px;
+    margin-left: 800px;
     word-spacing: 30px;
     margin-top: -60px;
     
@@ -35,12 +36,13 @@ a{
 a:hover{
     
     cursor: pointer;
+    color: brown;
       
     
 }
-.aa{
+.aa{    
     height: 80px;
-    width: 1333px;
+    width: 100%;
     background-color: white;
     
 }
@@ -49,7 +51,7 @@ a:hover{
     background-color: rgb(0, 0, 0);
     margin-top: -5px;
     height: 40px;
-    width: 1333px;
+    width: 100%;
     
     
    
@@ -63,19 +65,13 @@ a:hover{
 }
 .kimi{
     font-size: 30px;
-    color: rgb(7, 7, 7);   
+    color: rgb(3, 3, 3);   
     font-family:Baskerville Old Face ;
     position: inherit;
     text-transform: initial;
     text-align: center;
 }
-.d{
-    margin-top: -430px;
-}
-.e{
-    margin-left: 993px;
-    margin-top: -155px;
-}
+
 .activities{
 
     width: 270px;
@@ -102,7 +98,7 @@ font-family: Centaur;
 }
 #More_details{
    margin-left: 115px;
-   margin-top: -55px;
+   margin-top: -70px;
    color: blue;
 
 }
@@ -214,6 +210,7 @@ font-size: 20px;
     height:30px; 
    background-color: white;
     margin-top: 20px;
+    font-family: Californian FB;
 }
 .table1 h2{
 margin-left: 20px;
@@ -260,7 +257,7 @@ background-color: rgb(34, 34, 248);
 }
 
 .fot{
-    width: 1333px;
+    width: 100%;
     height: 500px;
     background-color: rgb(1, 100, 139);
     margin-top: 20px;
@@ -268,8 +265,8 @@ background-color: rgb(34, 34, 248);
 
 .fot iframe{
 
-margin-left: 700px;
-margin-top: 10px;
+margin-left: 650px;
+margin-top: 20px;
 
 }
 .CONT{
@@ -299,13 +296,13 @@ margin-top: 10px;
 
 .light{
 
-    width: 1333px;
+    width: 100%;
     margin-top: 50px;
     background-color: rgb(1, 100, 139);
     height: 20px;
-
     text-align:center;
     color: white;
     font-family: Californian FB;
 
 }
+
